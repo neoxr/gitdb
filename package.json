@@ -1,12 +1,12 @@
 {
   "name": "gitdb",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lightweight Cloud based JSON Database",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Wildan Izzudin",
   "license": "ISC",
   "dependencies": {
     "@octokit/rest": "^19.0.3",
