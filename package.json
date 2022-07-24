@@ -2,14 +2,25 @@
   "name": "gitdb",
   "version": "1.0.0",
   "description": "Lightweight Cloud based JSON Database",
+  "homepage": "https://github.com/neoxr/gitdb",
+  "keywords": [
+    "database",
+    "nosql",
+    "json",
+    "github"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Wildan Izzudin",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@octokit/rest": "^19.0.3",
     "nodejs-base64-converter": "^1.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neoxr/gitdb.git"
   }
 }
