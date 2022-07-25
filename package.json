@@ -16,7 +16,7 @@
   "author": "Wildan Izzudin",
   "license": "MIT",
   "dependencies": {
-    "octokit": "19.0.3",
+    "@octokit/rest": "19.0.3",
     "nodejs-base64-converter": "^1.0.5"
   },
   "repository": {
