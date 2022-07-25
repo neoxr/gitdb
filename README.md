@@ -29,7 +29,7 @@ You must have access to an authentication token to get it go to the [https://git
 - [x] project
 - [x] admin:rpg_key
 
-Token format looks like this :
+**Token format looks like this :**
 
 ```
 ghp_ZYuUPTSs3W4orj34g97iQRVrFWoswjwo
@@ -77,4 +77,4 @@ git.fetch().then(res => {
 
 ### Example
 
-Access the sample script here
+Access the sample script **[here](https://github.com/neoxr/gitdb/blob/master/src/example.js)**
