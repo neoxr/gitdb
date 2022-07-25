@@ -59,7 +59,7 @@ There are main functions, namely ```.save()``` and ```.fetch()```
 const data = {
    "name": "Budi Budiman",
    "age": 20,
-   "hobby: "Turu"
+   "hobby": "Turu"
 }
 
 git.save(data).then(res => {

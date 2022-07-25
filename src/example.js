@@ -7,7 +7,7 @@ const git = new(require('@neoxr/gitdb'))({
 const data = {
    "name": "Budi Budiman",
    "age": 20,
-   "hobby: "Turu"
+   "hobby": "Turu"
 }
 
 git.save(data).then(res => {
